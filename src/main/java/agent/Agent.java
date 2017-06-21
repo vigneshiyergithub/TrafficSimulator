@@ -1,10 +1,8 @@
 package agent;
+
 import constants.AgentID;
 import constants.AgentType;
 import constants.Directions;
-import fuzzy.FuzzyEngine;
-import qlearning.QLearningModule;
-
 import java.util.Set;
 
 /*
